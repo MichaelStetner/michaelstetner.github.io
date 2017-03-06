@@ -2054,44 +2054,30 @@
 		background-color: #a6a6a6;
 	}
 
-	#barJava {
-		position: absolute;
-		width: 60%;
-		height: 100%;
-		background-color: #a6a6a6;
-	}
-
 	#barCC {
 		position: absolute;
-		width: 45%;
-		height: 100%;
-		background-color: #a6a6a6;
-	}
-
-	#barHCJ {
-		position: absolute;
-		width: 45%;
+		width: 30%;
 		height: 100%;
 		background-color: #a6a6a6;
 	}
 
 	#barMatlab {
 		position: absolute;
+		width: 85%;
+		height: 100%;
+		background-color: #a6a6a6;
+	}
+
+	#barEAGLE {
+		position: absolute;
+		width: 75%;
+		height: 100%;
+		background-color: #a6a6a6;
+	}
+
+	#barPostgres {
+		position: absolute;
 		width: 40%;
-		height: 100%;
-		background-color: #a6a6a6;
-	}
-
-	#barR {
-		position: absolute;
-		width: 25%;
-		height: 100%;
-		background-color: #a6a6a6;
-	}
-
-	#barMySQL {
-		position: absolute;
-		width: 20%;
 		height: 100%;
 		background-color: #a6a6a6;
 	}
@@ -2295,13 +2281,13 @@
 	#tennisTracker {
 		background-image: url("../../images/tennisTracker.jpg");
 		background-size: 100% 100%;
-		
+
 	}
 
 	#arduinoWave {
 		background-image: url("../../images/arduinoWave.jpg");
 		background-size: 100% 100%;
-		
+
 	}
 
 	#homeBites:hover #bitesContent {
@@ -2514,7 +2500,7 @@
 	}
 
 	table.experience tbody tr:nth-child(n){
-		
+
 	}
 
 	table tbody tr:nth-child(2n + 1) {
