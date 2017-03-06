@@ -1,6 +1,6 @@
-# [skoaster10s.github.io](https://skoaster10s.github.io)
+# [michaelstetner.github.io](https://michaelstetner.github.io)
 
-My personal website created using the HTML5 UP template [Spectral](https://html5up.net/uploads/demos/spectral/) created by AJ (aj@lkn.io).This template is downloadable at [HTML5UP](https://html5up.net/).
+My personal website created using the HTML5 UP template [Spectral](https://html5up.net/uploads/demos/spectral/) created by AJ (aj@lkn.io), with [significant modifications by Sean Ko](https://github.com/skoaster10s/skoaster10s.github.io). The Spectral template is downloadable at [HTML5UP](https://html5up.net/).
 
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
