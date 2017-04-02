@@ -2218,7 +2218,7 @@
 
 /* Projects List */
 
-	#bitesContent {
+	#microimuContent {
 		border-radius: 5px;
 		background: rgba(179, 179, 179,  0.7);
 		max-height: 0;
@@ -2230,11 +2230,7 @@
 
 	}
 
-	#healthyTitle {
-		color: rgb(255, 128, 255);
-	}
-
-	#healthyContent {
+	#gyrodriveContent {
 		border-radius: 5px;
 		background: rgba(179, 179, 179,  0.7);
 		max-height: 0;
@@ -2268,13 +2264,13 @@
 		transition: max-height 0.8s;
 	}
 
-	#homeBites {
-		background-image: url("../../images/homeBites.jpg");
+	#microimu {
+		background-image: url("../../images/microimu.jpg");
 		background-size: 100% 100%;
 	}
 
-	#healthyWake {
-		background-image: url("../../images/healthyWake.jpg");
+	#gyrodrive {
+		background-image: url("../../images/gyrodrive.jpg");
 		background-size: 100% 100%;
 	}
 
@@ -2290,11 +2286,11 @@
 
 	}
 
-	#homeBites:hover #bitesContent {
+	#microimu:hover #microimuContent {
 		max-height: 300px;
 	}
 
-	#healthyWake:hover #healthyContent {
+	#gyrodrive:hover #gyrodriveContent {
 		max-height: 300px;
 	}
 
