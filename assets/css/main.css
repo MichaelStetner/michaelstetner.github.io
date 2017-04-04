@@ -2221,31 +2221,20 @@
 	#microimuContent {
 		border-radius: 5px;
 		background: rgba(179, 179, 179,  0.7);
-		max-height: 0;
 		overflow: hidden;
-
-		-webkit-transition: max-height 0.8s;
-		-moz-transition: max-height 0.8s;
-		transition: max-height 0.8s;
 
 	}
 
 	#gyrodriveContent {
 		border-radius: 5px;
 		background: rgba(179, 179, 179,  0.7);
-		max-height: 0;
 		overflow: hidden;
-
-		-webkit-transition: max-height 0.8s;
-		-moz-transition: max-height 0.8s;
-		transition: max-height 0.8s;
 
 	}
 
 	#arduinoContent {
 		border-radius: 5px;
 		background: rgba(179, 179, 179,  0.7);
-		max-height: 0;
 		overflow: hidden;
 
 		-webkit-transition: max-height 0.8s;
